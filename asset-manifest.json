@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02555415.css",
+    "main.js": "/static/js/main.a789ad6d.js",
+    "static/media/haut_logo.png": "/static/media/haut_logo.35259dd40bb9f194c02d.png",
+    "static/media/logo.png": "/static/media/logo.4efee044e321019a6c18.png",
+    "static/media/logo-simple.png": "/static/media/logo-simple.b23a3cda4a33be22e586.png",
+    "static/media/hati_logo.png": "/static/media/hati_logo.80d5cd3bbfa0c41a798e.png",
+    "static/media/zzuli_logo.jpg": "/static/media/zzuli_logo.f688e3f38260bd907d56.jpg",
+    "index.html": "/index.html",
+    "main.02555415.css.map": "/static/css/main.02555415.css.map",
+    "main.a789ad6d.js.map": "/static/js/main.a789ad6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02555415.css",
+    "static/js/main.a789ad6d.js"
+  ]
+}
