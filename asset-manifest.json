@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.02555415.css",
-    "main.js": "/static/js/main.a789ad6d.js",
-    "static/media/haut_logo.png": "/static/media/haut_logo.35259dd40bb9f194c02d.png",
+    "main.css": "/static/css/main.3e89343a.css",
+    "main.js": "/static/js/main.147be62d.js",
+    "static/media/nutrition_pills.jpg": "/static/media/nutrition_pills.e7344b492a0aab76a6bd.jpg",
+    "static/media/nutrition_powder.jpg": "/static/media/nutrition_powder.f8d0759378f41ebebff0.jpg",
+    "static/media/nutr_powder.jpg": "/static/media/nutr_powder.de801397ea4439bc4976.jpg",
+    "static/media/wbwl_logo.png": "/static/media/wbwl_logo.8e0af49202d5a159f9e0.png",
     "static/media/logo.png": "/static/media/logo.4efee044e321019a6c18.png",
+    "static/media/huahe_logo.png": "/static/media/huahe_logo.14a6bd802dfc3e54116c.png",
+    "static/media/haut_logo.png": "/static/media/haut_logo.281286500daaf7ca0b76.png",
+    "static/media/wbgj_logo.png": "/static/media/wbgj_logo.618bd2a470a409f3f74d.png",
+    "static/media/pony_logo.png": "/static/media/pony_logo.f5f93f9d8f6dd4dcdd87.png",
+    "static/media/zzuli_logo.png": "/static/media/zzuli_logo.c3eab2be475537ade810.png",
+    "static/media/hati_logo.png": "/static/media/hati_logo.c76a83d7c054c887d866.png",
     "static/media/logo-simple.png": "/static/media/logo-simple.b23a3cda4a33be22e586.png",
-    "static/media/hati_logo.png": "/static/media/hati_logo.80d5cd3bbfa0c41a798e.png",
-    "static/media/zzuli_logo.jpg": "/static/media/zzuli_logo.f688e3f38260bd907d56.jpg",
     "index.html": "/index.html",
-    "main.02555415.css.map": "/static/css/main.02555415.css.map",
-    "main.a789ad6d.js.map": "/static/js/main.a789ad6d.js.map"
+    "main.3e89343a.css.map": "/static/css/main.3e89343a.css.map",
+    "main.147be62d.js.map": "/static/js/main.147be62d.js.map"
   },
   "entrypoints": [
-    "static/css/main.02555415.css",
-    "static/js/main.a789ad6d.js"
+    "static/css/main.3e89343a.css",
+    "static/js/main.147be62d.js"
   ]
 }
